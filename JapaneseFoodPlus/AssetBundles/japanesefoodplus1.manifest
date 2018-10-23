@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 3808468081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0267c49f1120f6f29990c81a5e831aed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/JapaneseFoodPlus/TemplateScene.unity
+Dependencies: []
