@@ -1,0 +1,5 @@
+newmtl MYCuttingBoard
+map_Kd MYCuttingBoard.png
+Kd 1 1 1
+d 1
+
