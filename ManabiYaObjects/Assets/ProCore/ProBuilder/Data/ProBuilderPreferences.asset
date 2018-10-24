@@ -18,6 +18,8 @@ MonoBehaviour:
   - pbObjExportVertexColors
   - pbObjTextureOffsetScale
   - pbObjQuads
+  - pbFillHoleSelectsEntirePath
+  - pbUVMaterialPreview
   m_Int_keys:
   - pbDefaultEditLevel
   - pbDefaultSelectionMode
@@ -34,10 +36,10 @@ MonoBehaviour:
   - pbVertexColorPrefs8
   m_Color_keys: []
   m_Material_keys: []
-  m_Bool_values: 010101010101
-  m_Int_values: 0000000002000000000000000c0000000000000000000000
+  m_Bool_values: 0101010101010001
+  m_Int_values: 0100000000000000000000000c0000000000000000000000
   m_Float_values:
-  - 0.03
+  - 0.5
   - 0
   - 0
   m_String_values:
