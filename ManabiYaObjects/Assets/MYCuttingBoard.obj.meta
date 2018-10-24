@@ -16,7 +16,12 @@ ModelImporter:
     3300002: MYCuttingBoard_1
     4300000: MYCuttingBoard_0
     4300002: MYCuttingBoard_1
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MYCuttingBoard
+    second: {fileID: 2100000, guid: 92805fe7d76677249a426a2c97cf7fd0, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
