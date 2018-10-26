@@ -1,21 +1,22 @@
 fileFormatVersion: 2
-guid: 39de677e10ad5654cbf26c8f7bb16cea
+guid: 3822829bbee21094383d629e2d69c801
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: MYCuttingBoard_0
-    100004: MYCuttingBoard_1
+    100002: MYMortarOvenBase_0
+    100004: MYMortarOvenBase_1
     400000: //RootNode
-    400002: MYCuttingBoard_0
-    400004: MYCuttingBoard_1
-    2100000: MYCuttingBoard
-    2300000: MYCuttingBoard_0
-    2300002: MYCuttingBoard_1
-    3300000: MYCuttingBoard_0
-    3300002: MYCuttingBoard_1
-    4300000: MYCuttingBoard_0
-    4300002: MYCuttingBoard_1
+    400002: MYMortarOvenBase_0
+    400004: MYMortarOvenBase_1
+    2100000: MYMortarOvenBase_0Mat
+    2100002: MYMortarOvenBase_1Mat
+    2300000: MYMortarOvenBase_0
+    2300002: MYMortarOvenBase_1
+    3300000: MYMortarOvenBase_0
+    3300002: MYMortarOvenBase_1
+    4300000: MYMortarOvenBase_0
+    4300002: MYMortarOvenBase_1
   externalObjects: {}
   materials:
     importMaterials: 1

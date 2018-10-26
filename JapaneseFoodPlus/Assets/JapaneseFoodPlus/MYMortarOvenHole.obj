@@ -1,0 +1,27 @@
+# Exported from ProBuilder
+# http://www.procore3d.com/probuilder
+# 10/26/2018 8:30:37 PM
+
+mtllib ./MYMortarOvenHole.mtl
+o MYMortarOvenHole
+
+g MYMortarOvenHole
+v -0.323 0.6658893 -0.687
+v -0.323 0.6658893 -0.33113
+v -0.67887 0.6658893 -0.687
+v -0.67887 0.6658893 -0.33113
+
+vn 0 0.35587 0
+vn 0 0.35587 0
+vn 0 0.35587 0
+vn 0 0.35587 0
+
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+
+g MYMortarOvenHole
+usemtl Default_Prototype
+f 3/3/3 4/4/4 2/2/2 1/1/1
+

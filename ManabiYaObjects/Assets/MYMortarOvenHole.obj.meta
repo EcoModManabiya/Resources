@@ -1,21 +1,16 @@
 fileFormatVersion: 2
-guid: 39de677e10ad5654cbf26c8f7bb16cea
+guid: 841fc37a8fb10734fab638e81ce53082
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: MYCuttingBoard_0
-    100004: MYCuttingBoard_1
-    400000: //RootNode
-    400002: MYCuttingBoard_0
-    400004: MYCuttingBoard_1
-    2100000: MYCuttingBoard
-    2300000: MYCuttingBoard_0
-    2300002: MYCuttingBoard_1
-    3300000: MYCuttingBoard_0
-    3300002: MYCuttingBoard_1
-    4300000: MYCuttingBoard_0
-    4300002: MYCuttingBoard_1
+    100000: MYMortarOvenHole
+    100002: //RootNode
+    400000: MYMortarOvenHole
+    400002: //RootNode
+    2100000: Default_Prototype
+    2300000: MYMortarOvenHole
+    3300000: MYMortarOvenHole
+    4300000: MYMortarOvenHole
   externalObjects: {}
   materials:
     importMaterials: 1

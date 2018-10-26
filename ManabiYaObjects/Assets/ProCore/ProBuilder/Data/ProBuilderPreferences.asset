@@ -34,10 +34,11 @@ MonoBehaviour:
   m_String_keys:
   - pbCurrentMaterialPalette
   - pbVertexColorPrefs8
+  - pbVertexColorPrefs7
   m_Color_keys: []
   m_Material_keys: []
   m_Bool_values: 0101010101010001
-  m_Int_values: 0100000000000000000000000c0000000000000000000000
+  m_Int_values: 010000000100000000000000090000000000000000000000
   m_Float_values:
   - 0.5
   - 0
@@ -45,5 +46,6 @@ MonoBehaviour:
   m_String_values:
   - Assets/ProCore/ProBuilder/Data/Default Material Palette.asset
   - RGBA(0.717, 0.717, 0.717, 1.000)
+  - RGBA(0.642, 0.477, 0.009, 1.000)
   m_Color_values: []
   m_Material_values: []

@@ -1,5 +1,4 @@
-newmtl Default_Prototype
-map_Kd GridBox_Default.png
-Kd 1 1 1
+newmtl MYFlyingPan
+Kd 0.03773582 0.03773582 0.03773582
 d 1
 

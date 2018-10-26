@@ -3,14 +3,19 @@ guid: fddf93dd3a09adf4db6bbd457e90a50c
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: MYMortarOven
-    100002: //RootNode
-    400000: MYMortarOven
-    400002: //RootNode
+    100000: //RootNode
+    100002: MYMortarOven_0
+    100004: MYMortarOven_1
+    400000: //RootNode
+    400002: MYMortarOven_0
+    400004: MYMortarOven_1
     2100000: Default_Prototype
-    2300000: MYMortarOven
-    3300000: MYMortarOven
-    4300000: MYMortarOven
+    2300000: MYMortarOven_0
+    2300002: MYMortarOven_1
+    3300000: MYMortarOven_0
+    3300002: MYMortarOven_1
+    4300000: MYMortarOven_0
+    4300002: MYMortarOven_1
   externalObjects: {}
   materials:
     importMaterials: 1
