@@ -1,5 +1,5 @@
 newmtl Default_Prototype
-map_Kd barrel.png
-Kd 1 1 1
+map_Kd GridBox_Default.png
+Kd 0.09433961 0.09433961 0.09433961
 d 1
 
