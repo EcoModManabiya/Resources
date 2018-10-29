@@ -20,6 +20,8 @@ MonoBehaviour:
   - pbObjQuads
   - pbFillHoleSelectsEntirePath
   - pbUVMaterialPreview
+  - pbGrowSelectionUsingAngle
+  - pbGrowSelectionAngleIterative
   m_Int_keys:
   - pbDefaultEditLevel
   - pbDefaultSelectionMode
@@ -31,18 +33,20 @@ MonoBehaviour:
   - pbBevelAmount
   - pbEditorScroll.x
   - pbEditorScroll.y
+  - pbGrowSelectionAngle
   m_String_keys:
   - pbCurrentMaterialPalette
   - pbVertexColorPrefs8
   - pbVertexColorPrefs7
   m_Color_keys: []
   m_Material_keys: []
-  m_Bool_values: 0101010101010001
-  m_Int_values: 0000000002000000000000000a0000000000000000000000
+  m_Bool_values: 01010101010100010100
+  m_Int_values: 0100000001000000000000000a0000000000000000000000
   m_Float_values:
   - 0.008
   - 0
   - 0
+  - 42
   m_String_values:
   - Assets/ProCore/ProBuilder/Data/Default Material Palette.asset
   - RGBA(0.717, 0.717, 0.717, 1.000)
