@@ -20,6 +20,7 @@ MonoBehaviour:
   - pbObjQuads
   - pbFillHoleSelectsEntirePath
   - pbUVMaterialPreview
+  - pbUVEditorFloating
   m_Int_keys:
   - pbDefaultEditLevel
   - pbDefaultSelectionMode
@@ -37,8 +38,8 @@ MonoBehaviour:
   - pbVertexColorPrefs7
   m_Color_keys: []
   m_Material_keys: []
-  m_Bool_values: 0101010101010001
-  m_Int_values: 0000000002000000000000000a0000000000000000000000
+  m_Bool_values: 010101010101000101
+  m_Int_values: 0100000002000000000000000a0000000000000000000000
   m_Float_values:
   - 0.008
   - 0
