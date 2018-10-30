@@ -1,5 +1,9 @@
 newmtl Default_Prototype
-map_Kd GridBox_Default.png
-Kd 0.09433961 0.09433961 0.09433961
+Kd 0.5626497 0.9150943 0.4100659
 d 1
+
+newmtl Collider
+map_Kd GridBox_Collider.tga
+Kd 0 1 0
+d 0.6588235
 

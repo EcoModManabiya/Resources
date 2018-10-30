@@ -5,12 +5,28 @@ ModelImporter:
   fileIDToRecycleName:
     100000: MYTurkeyHouse
     100002: //RootNode
+    100004: MYTurkeyHouse_0
+    100006: MYTurkeyHouse_1
+    100008: MYTurkeyHouse_2
     400000: MYTurkeyHouse
     400002: //RootNode
+    400004: MYTurkeyHouse_0
+    400006: MYTurkeyHouse_1
+    400008: MYTurkeyHouse_2
     2100000: Default_Prototype
+    2100002: Collider
     2300000: MYTurkeyHouse
+    2300002: MYTurkeyHouse_0
+    2300004: MYTurkeyHouse_1
+    2300006: MYTurkeyHouse_2
     3300000: MYTurkeyHouse
+    3300002: MYTurkeyHouse_0
+    3300004: MYTurkeyHouse_1
+    3300006: MYTurkeyHouse_2
     4300000: MYTurkeyHouse
+    4300002: MYTurkeyHouse_0
+    4300004: MYTurkeyHouse_1
+    4300006: MYTurkeyHouse_2
   externalObjects: {}
   materials:
     importMaterials: 1

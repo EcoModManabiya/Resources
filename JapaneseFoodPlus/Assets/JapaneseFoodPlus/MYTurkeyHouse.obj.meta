@@ -3,14 +3,26 @@ guid: 545e1c32665312f44bf812e5a0311c6d
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: MYTurkeyHouse
-    100002: //RootNode
-    400000: MYTurkeyHouse
-    400002: //RootNode
-    2100000: MYTurkeyHouseMat
-    2300000: MYTurkeyHouse
-    3300000: MYTurkeyHouse
-    4300000: MYTurkeyHouse
+    100000: //RootNode
+    100002: MYTurkeyHouse_0
+    100004: MYTurkeyHouse_1
+    100006: MYTurkeyHouse_2
+    400000: //RootNode
+    400002: MYTurkeyHouse_0
+    400004: MYTurkeyHouse_1
+    400006: MYTurkeyHouse_2
+    2100000: MYTurkeyHouse_0Mat
+    2100002: MYTurkeyHouse_1Mat
+    2100004: MYTurkeyHouse_2Mat
+    2300000: MYTurkeyHouse_0
+    2300002: MYTurkeyHouse_1
+    2300004: MYTurkeyHouse_2
+    3300000: MYTurkeyHouse_0
+    3300002: MYTurkeyHouse_1
+    3300004: MYTurkeyHouse_2
+    4300000: MYTurkeyHouse_0
+    4300002: MYTurkeyHouse_1
+    4300004: MYTurkeyHouse_2
   externalObjects: {}
   materials:
     importMaterials: 1
